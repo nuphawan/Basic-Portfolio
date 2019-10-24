@@ -1,0 +1,44 @@
+.me {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 30px;
+    border-radius: 15px;
+    width: 50%;
+    height: 20%;
+    font-family: "'Georgia', Times, Times New Roman, serif;"
+    }
+
+.link {
+    color:lightgray;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+.Mee {
+    font-family:'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5; 
+    border: 2px solid #dddddd;
+}
+
+.paragraph {
+    font-family:'Arial','Helvetica Neue', Helvetica, sans-serif;
+    color: #bbbbbb;
+    margin: right; 
+}
+
+.head {
+    font-family:'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5; 
+}
+
+.form {
+    font-family:'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5; 
+}
+
+.img {
+    font-family:'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5; 
+}
