@@ -13,19 +13,24 @@
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border-radius: 15px;
     padding: 10px;
-
-}
+    }
 
 .Mee {
     font-family:'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5; 
     border: 2px solid #dddddd;
+    float: left;
+    margin: 20px;
 }
 
 .paragraph {
     font-family:'Arial','Helvetica Neue', Helvetica, sans-serif;
     color: #bbbbbb;
-    margin: right; 
+    margin-top:-20%;
+    margin-left: 18%;
+    margin-right: 10%;
+    float:right;
+    border: 1px solid white;
 }
 
 .head {
